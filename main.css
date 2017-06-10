@@ -1,0 +1,41 @@
+#gc{
+	margin-left: 30%;
+}
+
+body{
+	background: black;
+	border-color: red;
+}
+
+footer{
+	color: white;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	margin-bottom: 40px;
+	margin-right: 15px;
+	font-size: 30px;
+}
+
+#name {
+	font-family: 'Mogra';
+	font-size: 40px;
+	font-weight: 5px;
+	margin-top: 0;
+	text-align: center;
+	color: red;
+}
+
+#Score{
+	border:2px solid green;
+	position: fixed;
+	right: 0;
+	color: green;
+	width: 15%;
+	margin-right: 20px;
+}
+
+#scoreTable, #ScoreNumber{
+	margin-top: 0;
+	text-align: center;
+}
